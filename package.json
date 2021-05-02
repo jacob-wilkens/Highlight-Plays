@@ -1,0 +1,17 @@
+{
+  "name": "nbaplays",
+  "version": "1.0.0",
+  "description": "Gathers game descriptions based on certain parameters",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "nba-api-client": "^1.1.1",
+    "nba-pbp-video": "^1.0.6",
+    "objects-to-csv": "^1.3.6"
+  }
+}
